@@ -1,0 +1,18 @@
+.main {
+  .main-container {
+    ul {
+      scroll-behavior: smooth;
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      padding-left: 10vw;
+      padding-right: 10vw;
+      overflow: auto;
+      list-style: none;
+    }
+  }
+}
+// ::-webkit-scrollbar {
+//     display: none;
+//   }
+
